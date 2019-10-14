@@ -1,0 +1,20 @@
+Inttoduction:-
+
+
+
+Project: Supplier Management System In Java 
+
+The supplier management system in java is a simple java project. This system helps the company to track the record of supplies and goods. This system uses MySQL as database. To run this project, you will require NetBeans IDE. Make sure you also install XAMPP.
+About the system
+
+This system in Java is easy to understand and handle. The System comes with two handlers. One is the admin and the other is the cashier. The admin has full access to the system. The admin can create as many cashiers he wants to. He also can view stocks and products. Moreover, he controls the transaction process in this system. Whereas, the cashiers can add products and can generate bills. Also, they can update and delete them later.
+
+Remember this system uses a MySQL back-end database. so you have to create the database manually on the basis of the project code.
+
+    First, download the project and extract them.
+    Then open your XAMPP and fire up the Apache server and MySQL server.
+    Open your browser and create a database named as “java_app”.
+    Then create tables according to the code.
+    Open your NetBeans IDE and look out for each of the table names and their attributes.
+
+You can add suppliers as well as customers. You can easily produce bills and revenues. Design of this is so simple that the user won’t find difficulties while working on it. This project is easy to operate and understood by the users. To run this project you must have installed Eclipse IDE or NetBeans IDE on your PC. This System in Java is free to download with source code. For the project demo, have a look at the video below.
